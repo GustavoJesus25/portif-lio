@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    max-width: 100vw;
+    max-height: 100vh;
+    display: flex;
+}
+.navegacao{
+    width: 400px;
+    height: 100vh;
+    background-color: darkblue;
+    
+}
+nav{
+    width: 200px;
+    height: 100px;
+    background-color: darkblue;
+    position: relative;
+    top: 170px;
+    left: 90px;
+}
+h1{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    position: relative;
+    right: 5px;
+}
+.image{
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    position: relative;
+    left: 50px;
+    top: 100px
+
+}
+
+
+
+.conteudo{
+    width: 1000px;
+    height: 100vh;
+    background-color: orangered;
+}
+
+.info{
+    width: 600px;
+    height: 100px;
+    position: relative;
+    top: 175px;
+    left: 40px;
+}
+
+.nome{
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.endereco{
+    color: white;
+    font-size: 25px;
+}
+.eu{
+    width: 600px;
+    height: 100px;
+    position: relative;
+    top: 250px;
+    left: 40px;
+}
+.descricao{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+}
+
+.git{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 5px;
+}
+.mail{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 50px;
+    top: 5px;
+}
+.linkedin{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 100px;
+    top: 5px;
+}
+.linha{
+    width: 945px;
+    height: 5px;
+    position: relative;
+    top: 300px;
+}
+
+.socials{
+    width: 600px;
+    height: 100px;
+    position: relative;
+    top: 300px;
+    left: 40px;
+}
+.lista{
+    width: 700px;
+    height: 200px;
+    line-height: 50px;
+    font-size: 30px;
+    position: relative;
+    top: 175px;
+    left: 100px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.conheci{
+    width: 700px;
+    height: 200px;
+    line-height: 50px;
+    font-size: 30px;
+    position: relative;
+    top: 175px;
+    left: 100px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
